@@ -11,7 +11,8 @@ On this tutorial it was just a recap of views and states that I have already use
 https://www.hackingwithswift.com/books/ios-swiftui
 ## Images
 
-<img src="https://github.com/epryor1/swift-tipcalc/assets/64035893/0f4887ab-9cdc-4b1e-8bf8-0b13053e9311" width="100" height="300">
+<img src="https://github.com/epryor1/swift-tipcalc/assets/64035893/0f4887ab-9cdc-4b1e-8bf8-0b13053e9311" width="200" height="300">
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
